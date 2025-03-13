@@ -42,12 +42,23 @@ Follow these steps to set up and run the project locally:
     ```
 
 ## Screenshots / Demo
-- **Screenshot 1**: 
-  (#)<img width="604" alt="Screenshot 2025-03-13 at 07 59 46" src="https://github.com/user-attachments/assets/4362a816-6af9-423f-8666-6de8262c3838" />
+
+- **Screenshot 1**:
+  
+<img width="604" alt="Screenshot 2025-03-13 at 07 59 46" src="https://github.com/user-attachments/assets/4362a816-6af9-423f-8666-6de8262c3838" />
+
+  - Displays the libraries imported, and a sneak peek of some of the code used to make this AI model.
+
+
+- **Screenshot 2**:
+  
+<img width="931" alt="Screenshot 2025-03-13 at 08 07 10" src="https://github.com/user-attachments/assets/d5310090-27ff-47eb-a245-b996a0733220" />
 
   - Displays the initial view of the program, before the user inputs the names of two actors.
 
-- **Screenshot 2**:
+
+- **Screenshot 3**:
+  
 <img width="947" alt="Screenshot 2025-03-13 at 08 02 13" src="https://github.com/user-attachments/assets/413c51e9-5ab4-4c3d-b7d0-a4d10031c1e5" />
 
 
