@@ -43,14 +43,19 @@ Follow these steps to set up and run the project locally:
 
 ## Screenshots / Demo
 - **Screenshot 1**: 
-  ![Screenshot 1](#)
-  - Displays the initial view of the application, showcasing the clean and intuitive user interface.
+  (#)<img width="604" alt="Screenshot 2025-03-13 at 07 59 46" src="https://github.com/user-attachments/assets/4362a816-6af9-423f-8666-6de8262c3838" />
+
+  - Displays the initial view of the program, before the user inputs the names of two actors.
 
 - **Screenshot 2**:
-  ![Screenshot 2](#)
-  - Highlights the email viewing functionality, ensuring compatibility across different devices and email applications.
+<img width="947" alt="Screenshot 2025-03-13 at 08 02 13" src="https://github.com/user-attachments/assets/413c51e9-5ab4-4c3d-b7d0-a4d10031c1e5" />
 
-<!-- Add more screenshots as necessary -->
+
+<img width="1010" alt="Screenshot 2025-03-13 at 08 02 54" src="https://github.com/user-attachments/assets/4472c112-a14e-4500-8bc5-cc89787716e1" />
+
+  - Highlights the program that determines how many “degrees of separation” apart two actors are.
+
+
 
 ## Usage
 After launching the application, you can:
